@@ -1,4 +1,4 @@
-package com.ysh.exam2;
+package com.ysh.exam2.user.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
