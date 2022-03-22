@@ -12,7 +12,7 @@ public class UserController {
     @ResponseBody
     public String users(){
 
-        return "성공완료ㄴㅇㅁㄴㅇf";
+        return "잘 작동하는지 확인";
     }
 
     @RequestMapping("1")
