@@ -18,7 +18,7 @@ public class UserController {
     @RequestMapping("1")
     @ResponseBody
     public String user(){
-        return "수정하자";
+        return "실행";
     }
 
 }
