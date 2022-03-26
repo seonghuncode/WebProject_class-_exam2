@@ -21,6 +21,13 @@
 	<dependencies>
 
 		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<optional>true</optional>
+		</dependency>  <!--룸북을 사용하기 위해 해준다 -->
+		<!--룸북 : getter를 사동으로 만들어 주는 기능 -->
+
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
