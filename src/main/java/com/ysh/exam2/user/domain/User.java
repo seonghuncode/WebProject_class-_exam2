@@ -1,11 +1,8 @@
 package com.ysh.exam2.user.domain;
 
 
-import javax.persistence.Entity;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
-@Entity
 public class User {
     //데이터 베이스에 있는 컬럼이랑 똑같은 속성을 갖어야 한다.
     //유저라는 class를 만들어 놓으면 필요할때 마다 사용 가능
